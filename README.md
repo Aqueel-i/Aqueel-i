@@ -31,10 +31,10 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="left">IDE and Tools I Use</h3>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp;
-<img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>&nbsp; 
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>&nbsp;
-<a href="https://icons8.com/icon/17842/linux">Linux</a> icon by <a href="https://icons8.com">Icons8</a>&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
+<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
 <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqueel-i&show_icons=true&locale=en&layout=compact" alt="aqueel-i" /></p>
