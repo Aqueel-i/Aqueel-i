@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, It's me Aqueel</h1>
+<h1 align="center">Hi there 👋, Aqueel here</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqueel-i&label=Profile%20views&color=0e75b6&style=flat" alt="aqueel-i" /> </p>
